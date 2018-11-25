@@ -1,0 +1,20 @@
+.btn {
+  float: right;
+  padding: 10px;
+  font-size: 100%;
+  font-family: Times New Roman;
+  color: white;
+  background: #9F00F4;
+  border: none;
+  border-radius: 10px;
+}
+.error {
+  width: 60%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
